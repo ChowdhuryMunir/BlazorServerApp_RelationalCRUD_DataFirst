@@ -1,6 +1,5 @@
 using BlazorServerApp_RelationalCRUD_DataFirst.Data;
 using BlazorServerApp_RelationalCRUD_DataFirst.Services;
-using BlazorServerApp_RelationalCRUD_DataFirst.Services;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.EntityFrameworkCore;
